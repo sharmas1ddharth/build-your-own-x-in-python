@@ -167,7 +167,7 @@ It's a great way to learn.
 * [**Python**: _Building a simple Generative Adversial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
 * [**Python**: _Learn ML Algorithms by coding: Decision Trees_](https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4)
 * [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
-* [**Python**: _Build your own Git plugin with python_](https://www.joshburns.xyz/posts/byo_git_plugin_tutorial)
+* [**Python**: _Build your own Git plugin with python_](https://www.joshburns.xyz/posts/byo_git_plugin_tutorial) [Github Repo](https://github.com/sharmas1ddharth/git_plugin)
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
